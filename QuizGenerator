@@ -1,6 +1,6 @@
 import java.util.ArrayList;
-
 import java.util.*;
+
 public class QuizGenerator3 {
 
     //stores the name of subject
@@ -62,6 +62,7 @@ public class QuizGenerator3 {
                 }
             }
         }
+
         //function to start the quiz
         public static void startQuiz() {
             System.out.println("************************ ALL THE BEST FOR THE TEST! ************************");
